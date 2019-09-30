@@ -3,10 +3,10 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package br.senac.sp.lojamvc.controller;
+package br.lojamvc.controller;
 
-import br.senac.sp.lojamvc.DAO.ClienteDAO;
-import br.senac.sp.lojamvc.model.Cliente;
+import br.lojamvc.DAO.ClienteDAO;
+import br.lojamvc.model.Cliente;
 import java.util.ArrayList;
 
 /**

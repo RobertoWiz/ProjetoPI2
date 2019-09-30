@@ -3,9 +3,9 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package br.senac.sp.lojamvc.view;
+package br.lojamvc.view;
 
-import br.senac.sp.lojamvc.controller.ClienteController;
+import br.lojamvc.controller.ClienteController;
 import java.util.ArrayList;
 import javax.swing.JOptionPane;
 import javax.swing.table.DefaultTableModel;
